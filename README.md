@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- ## 👋 &nbsp;Hey there! I'm Axel -->
+<!-- ## 👋 &nbsp;Hey there! I'm Loïck -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
