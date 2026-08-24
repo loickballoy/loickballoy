@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science at EPITA Lyon.\
 💬 &nbsp;Feel free to reach out to me for project proposals, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at loick.balloy@epita.fr - I'll try to respond as soon as I can.
 
