@@ -41,6 +41,10 @@ Neural network written from scratch in C++, retrained every week on Cloud Run an
 
 Prediction-market backend with a virtual currency. Bet placement and settlement run as atomic PL/pgSQL functions with row-level locks on balances. 125 pytest tests run in CI against a real PostgreSQL.
 
+<a href="https://loickballoy.github.io/aniBet/">
+  <img alt="AniBet Home Page" src="https://raw.githubusercontent.com/loickballoy/aniBet/main/docs/screenshots/home.png" width="100%">
+</a>
+
 ## Stack
 
 <picture>
